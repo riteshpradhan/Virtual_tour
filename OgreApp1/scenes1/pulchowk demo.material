@@ -1,0 +1,1118 @@
+
+material NoMaterial
+{
+	technique
+	{
+		pass
+		{
+		}
+
+	}
+
+}
+
+
+
+material 03-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 159.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 01-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture 1st maprepair.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 02-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture 1st maprepair.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 203.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#22
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture roadedit.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#15
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture wall1.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Trunk
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.435294 0 0 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Branch0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.435294 0 0 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Material#1
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 203.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 09-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 201.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#17
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture walllll.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.0509804 0.396078 0.262745 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material 04-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 171.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 165.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 10-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture 159edited.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 05-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 152.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 11-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 155.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture 197edited.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 206.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material 06-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture ladderight.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture ladderfront.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#7
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture laddeleftside.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#8
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture ladderbeside.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#12
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture wall.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#14
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture com.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#13
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture comp.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#9
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235 1
+			diffuse 0.588235 0.588235 0.588235 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture cc.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#16
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture toilet.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#18
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 193.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#19
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture combackdept.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Material#20
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588 1
+			diffuse 0.588 0.588 0.588 1
+			specular 0 0 0 1 10
+
+			texture_unit
+			{
+				texture Picture 195edited.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Trunk
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.435294 0 0 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Branch0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.435294 0 0 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.0509804 0.396078 0.262745 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Trunk
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.27451 0.14902 0.0117647 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Branch0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.27451 0.14902 0.0117647 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.0196078 0.439216 0 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Trunk
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.27451 0.14902 0.0117647 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Branch0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.27451 0.14902 0.0117647 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.0196078 0.439216 0 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0 0.521569 0.247059 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Trunk
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.462745 0.356863 0.184314 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Branch0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.462745 0.356863 0.184314 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.984314 0.933333 0.380392 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Trunk
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.443137 0.596078 0.435294 1
+			specular 0.045 0.045 0.045 1 25
+
+			texture_unit
+			{
+				texture euphbark.tga
+				scale 0.666667 1
+			}
+		}
+
+	}
+
+}
+
+
+
+material Branches
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.0117647 0.482353 0.0117647 1
+			specular 0.045 0.045 0.045 1 25
+
+			texture_unit
+			{
+				texture euphbark.tga
+				scale 1 0.2
+			}
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.0117647 0.482353 0.0117647 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Trunk
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.345098 0.215686 0.0117647 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Wigglers
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.345098 0.215686 0.0117647 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Branches
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.345098 0.215686 0.0117647 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material PillarRoots
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.345098 0.215686 0.0117647 1
+			specular 0 0 0 1 1
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.0941176 0.4 0 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Trunk
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.396078 0.266667 0.0588235 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Branch0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.396078 0.266667 0.0588235 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0.0784314 0.619608 0.0509804 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+
+
+material Canopy
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.1 0.1 0.1 1
+			diffuse 0 0.521569 0.247059 1
+			specular 0.045 0.045 0.045 1 25
+		}
+
+	}
+
+}
+
+

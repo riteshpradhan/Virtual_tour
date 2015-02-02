@@ -1,0 +1,47 @@
+﻿Build started 6/22/2013 10:55:39 AM.
+     1>Project "D:\Hamro Project\OgreApp1\OgreApp1\OgreApp1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "obj\Debug\OgreApp1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Iogremax /Iinclude /I\include /I\include\OIS /I\include\OGRE /I\Samples\Common\include /I\boost_1_42 /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /Gy /fp:fast /Zc:wchar_t /Zc:forScope /GR /Fo"obj\Debug\\" /Fd"obj\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt OgreMax\OgreMaxModel.cpp OgreMax\OgreMaxScene.cpp OgreMax\OgreMaxUtilities.cpp OgreMax\OgrePlugins.cpp OgreMax\ProgressCalculator.cpp OgreMax\tinyxml\tinystr.cpp OgreMax\tinyxml\tinyxml.cpp OgreMax\tinyxml\tinyxmlerror.cpp OgreMax\tinyxml\tinyxmlparser.cpp OgreMax\tinyxml\xmltest.cpp OgreMax\Version.cpp src\BaseApplication.cpp src\OgreApp1.cpp
+         OgreApp1.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\include\baseapplication.h(21): fatal error C1083: Cannot open include file: 'OgreCamera.h': No such file or directory
+         BaseApplication.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\include\baseapplication.h(21): fatal error C1083: Cannot open include file: 'OgreCamera.h': No such file or directory
+         Version.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\version.hpp(22): fatal error C1083: Cannot open include file: 'OgreString.h': No such file or directory
+         xmltest.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\tinyxml\xmltest.cpp(559): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\tinyxml\xmltest.cpp(560): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\tinyxml\xmltest.cpp(826): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\tinyxml\xmltest.cpp(919): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\tinyxml\xmltest.cpp(925): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\tinyxml\xmltest.cpp(941): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\tinyxml\xmltest.cpp(954): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+         tinyxmlparser.cpp
+         tinyxmlerror.cpp
+         tinyxml.cpp
+         tinystr.cpp
+         ProgressCalculator.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\progresscalculator.hpp(22): fatal error C1083: Cannot open include file: 'OgreString.h': No such file or directory
+         OgrePlugins.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\ogreplugins.hpp(22): fatal error C1083: Cannot open include file: 'OgrePlugin.h': No such file or directory
+         OgreMaxUtilities.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\ogremaxutilities.hpp(22): fatal error C1083: Cannot open include file: 'OgreSceneManager.h': No such file or directory
+         OgreMaxScene.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\ogremaxscene.hpp(22): fatal error C1083: Cannot open include file: 'OgreRenderTargetListener.h': No such file or directory
+         OgreMaxModel.cpp
+     1>d:\hamro project\ogreapp1\ogreapp1\ogremax\ogremaxmodel.hpp(22): fatal error C1083: Cannot open include file: 'OgreResourceGroupManager.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "D:\Hamro Project\OgreApp1\OgreApp1\OgreApp1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.00
